@@ -1,0 +1,1 @@
+# codogo para numeros primos
